@@ -7,3 +7,5 @@ blockchain_with_storage.py runs the main blockchain system. Time taken to initia
 
 test.csv contains the labelled test news articles (1000) articles
 test2.csv contrains a larger number of news articles which can be used in training or testing (10,000 articles)
+
+initialised blockchain is stored in the backup folder in case of error or corruption
